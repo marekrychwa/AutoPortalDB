@@ -1,0 +1,14 @@
+# Pliki tymczasowe
+*.bak
+*.tmp
+*.log
+*.sqlproj.user
+
+# Backupy i konfiguracje lokalne
+*.db
+*.mdf
+*.ldf
+
+# Pliki ˜rodowiska / IDE
+.vscode/
+.idea/
