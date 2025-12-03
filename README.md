@@ -1,12 +1,12 @@
 # AutoPortalDB
 
-AutoPortalDB to przykàadowa baza danych SQL Server dla portalu sprzedaæy samochod¢w.
-Zawiera tabele, widoki, zapytania, transakcje, dane testowe oraz konfiguracj© uprawnie‰.
+AutoPortalDB to przyk≈Çadowa baza danych SQL Server dla portalu sprzeda≈ºy samochod√≥w.
+Zawiera tabele, widoki, zapytania, transakcje, dane testowe oraz konfiguracjƒô uprawnie≈Ñ.
 
-## Jak uruchomiÜ
-1. Otw¢rz SQL Server Management Studio (SSMS).
+## Jak uruchomiƒá
+1. Otw√≥rz SQL Server Management Studio (SSMS).
 2. Uruchom plik database\AutoPortalDB.sql.
-3. Sprawd´ poprawnoòÜ danych przy pomocy zapyta‰ testowych na ko‰cu pliku.
+3. Sprawd≈∫ poprawno≈õƒá danych przy pomocy zapyta√§ testowych na ko≈Ñcu pliku.
 
 ## Wymagania
 - Microsoft SQL Server 2019 lub nowszy
